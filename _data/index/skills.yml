@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: GitHub, linux, STM32, C++, Machine Learning, C#, other
+percentage:  50,    40,    70,  50,              30, 65, 50
